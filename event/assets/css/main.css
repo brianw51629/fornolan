@@ -1853,7 +1853,7 @@ input, select, textarea {
 				}
 
 					#titleBar .toggle:after {
-						content: 'undefined';
+						content: 'Men of the West';
 						display: block;
 						position: absolute;
 						top: 6px;
@@ -1868,7 +1868,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						content: '';
+						content: 'Men of the West';
 						position: absolute;
 						width: 20px;
 						height: 30px;
