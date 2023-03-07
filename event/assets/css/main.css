@@ -1853,7 +1853,7 @@ input, select, textarea {
 				}
 
 					#titleBar .toggle:after {
-						content: '';
+						content: 'undefined';
 						display: block;
 						position: absolute;
 						top: 6px;
